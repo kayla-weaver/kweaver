@@ -35,5 +35,12 @@ h1 {
     color:aquamarine;
   }
 .important {
-    text-decoration-color: lawngreen;
+    color:lawngreen;
+    background-color: deeppink;
+}
+body{
+    text-align: center;
+}
+.pink{
+    color:pink
 }
