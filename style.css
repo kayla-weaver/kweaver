@@ -34,3 +34,6 @@ h1 {
   li{
     color:aquamarine;
   }
+.important {
+    text-decoration-color: lawngreen;
+}
