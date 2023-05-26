@@ -42,5 +42,11 @@ body{
     text-align: center;
 }
 .pink{
-    color:pink
+    color:hotpink;
+}
+.white{
+    color:white;
+}
+.blue{
+    color: blue;
 }
