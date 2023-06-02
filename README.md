@@ -11,7 +11,7 @@
 
 ## Description
 
-_This browser allows you to scroll through and read my portfolio with my about me, hobbies, projects, etc. All of the Github examples are clicable and will take you to my projects
+This browser allows you to scroll through and read my portfolio with my about me, hobbies, projects, etc. All of the Github examples are clicable and will take you to my projects
 
 ## Setup/Installation Requirements
 
