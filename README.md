@@ -16,8 +16,11 @@ This browser allows you to scroll through and read my portfolio with my about me
 ## Setup/Installation Requirements
 
 * Clone this repository to your desktop by clicking the <> code button and copying the url
-* navigate to the top level of your desktop and copy git clone "url-of-remote-repo"
-* A new file should open up on your desktop containing my super amazing awesome project
+* navigate to the top level of your desktop by:
+  -opening your terminal and type the following: cd desktop
+  -once you are in your desktop write git clone "url-of-remote-repo"
+* Once here, you should be able to use the command code . to open the project in VS code
+* From VS Code you can click "Go Live" in the bottom right hand corner.
 
 ## Known Bugs
 
