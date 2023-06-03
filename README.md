@@ -2,7 +2,7 @@
 
 #### By Ms Kayla Elizabeth Weaver
 
-https://kayla-weaver.github.io/
+https://kayla-weaver.github.io/kweaver/
 
 #### This is where you can learn all about my and my projects!
 
