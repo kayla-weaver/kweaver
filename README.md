@@ -2,7 +2,7 @@
 
 #### By Ms Kayla Elizabeth Weaver
 
-https://kayla-weaver.github.io/
+https://kayla-weaver.github.io/kweaver/
 
 #### This is where you can learn all about my and my projects!
 
@@ -22,7 +22,7 @@ This browser allows you to scroll through and read my portfolio with my about me
   -opening your terminal and type the following: cd desktop
   -once you are in your desktop write git clone "url-of-remote-repo"
 * Once here, you should be able to use the command code . to open the project in VS code
-* From VS Code you can click "Go Live" in the bottom right hand corner.
+* From VS Code you can click "Go Live" in the bottom right hand corner to view the website 
 
 ## Known Bugs
 
